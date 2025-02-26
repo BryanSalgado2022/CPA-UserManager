@@ -6,7 +6,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 import com.cpausermanager.cpa_user_manager.Models.User;
-import java.util.List;
 
 
 @Repository

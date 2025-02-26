@@ -4,8 +4,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.cpausermanager.cpa_user_manager.Models.User;
 
-import java.util.List;
-
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
